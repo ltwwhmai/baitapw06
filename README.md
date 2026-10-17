@@ -56,7 +56,7 @@ classDiagram
     TeachingDevice <|-- Microphone
     TeachingDevice <|-- ProjectorRemote
     ClassRoom o-- Device : kết tập
-
+```mermaid
 classDiagram
     direction TB
 
